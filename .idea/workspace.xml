@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d8fd3d0-e837-474f-9c62-f434c5cc0bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/dependencies/DependencyContainer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/dependencies/TDependency.php" />
-    </list>
+    <list default="true" id="3d8fd3d0-e837-474f-9c62-f434c5cc0bad" name="Default" comment="" />
     <ignored path="samples.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -204,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460889824271</updated>
-      <workItem from="1460889825558" duration="509000" />
+      <workItem from="1460889825558" duration="536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="509000" />
+    <option name="totallyTimeSpent" value="536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
